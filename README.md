@@ -23,5 +23,5 @@ This data is present in the data folder
 
 # To run the modular code
 
-1) Change the file paths in the config.yaml file as per your directory
+Change the file paths in the code as per your directory
 
