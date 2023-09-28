@@ -1,4 +1,4 @@
-[# Propensity Modeling for an E-Commerce Company
+# Propensity Modeling for an E-Commerce Company
 
 This client is an emerging e-commerce startup that offers a wide range of products, from daily essentials like dairy and vegetables to high-end electronics and home appliances. Despite a growing number of visitors exploring their platform, only a small fraction actually makes a purchase.
 
